@@ -35,6 +35,8 @@ Spam classifier is the ML model classifier (one among Naive Bayes, KNN, Decision
 
 **Deep Learning structure:**
 
+<img src="images/dlsteps2.jpg" width="550">
+
 <img src="images/dlsteps.png" width="350">
 
 Padded sequence is then passed through either the Dense network or LSTM network.
